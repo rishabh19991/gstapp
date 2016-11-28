@@ -1,5 +1,5 @@
 {
-  "name": "App",
+  "name": "gstApp",
   "app_id": "22a68333",
   "gulpStartupTasks": [
     "watch"
